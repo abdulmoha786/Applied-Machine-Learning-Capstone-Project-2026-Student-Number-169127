@@ -1,0 +1,19 @@
+[ 2026-11-23 15:58:51,653 ] 97 werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://10.55.11.241:8080
+[ 2026-11-23 15:58:51,653 ] 97 werkzeug - INFO - [33mPress CTRL+C to quit[0m
+[ 2026-11-23 16:00:01,201 ] 97 werkzeug - INFO - 127.0.0.1 - - [23/Nov/2026 16:00:01] "GET / HTTP/1.1" 200 -
+[ 2026-11-23 16:00:01,295 ] 97 werkzeug - INFO - 127.0.0.1 - - [23/Nov/2026 16:00:01] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[ 2026-11-23 16:00:02,984 ] 97 werkzeug - INFO - 127.0.0.1 - - [23/Nov/2026 16:00:02] "GET /predictdata HTTP/1.1" 200 -
+[ 2026-11-23 16:00:03,052 ] 97 werkzeug - INFO - 127.0.0.1 - - [23/Nov/2026 16:00:03] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[ 2026-11-23 16:01:32,958 ] 97 werkzeug - INFO - 127.0.0.1 - - [23/Nov/2026 16:01:32] "POST /predictdata HTTP/1.1" 200 -
+[ 2026-11-23 16:01:32,986 ] 97 werkzeug - INFO - 127.0.0.1 - - [23/Nov/2026 16:01:32] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[ 2026-11-23 16:02:16,220 ] 97 werkzeug - INFO - 127.0.0.1 - - [23/Nov/2026 16:02:16] "POST /predictdata HTTP/1.1" 200 -
+[ 2026-11-23 16:02:16,298 ] 97 werkzeug - INFO - 127.0.0.1 - - [23/Nov/2026 16:02:16] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[ 2026-11-23 16:08:56,095 ] 97 werkzeug - INFO - 127.0.0.1 - - [23/Nov/2026 16:08:56] "POST /predictdata HTTP/1.1" 200 -
+[ 2026-11-23 16:08:56,138 ] 97 werkzeug - INFO - 127.0.0.1 - - [23/Nov/2026 16:08:56] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[ 2026-11-23 16:10:41,463 ] 97 werkzeug - INFO - 127.0.0.1 - - [23/Nov/2026 16:10:41] "POST /predictdata HTTP/1.1" 200 -
+[ 2026-11-23 16:10:41,533 ] 97 werkzeug - INFO - 127.0.0.1 - - [23/Nov/2026 16:10:41] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+[ 2026-11-23 16:13:37,676 ] 97 werkzeug - INFO - 127.0.0.1 - - [23/Nov/2026 16:13:37] "POST /predictdata HTTP/1.1" 200 -
+[ 2026-11-23 16:13:37,729 ] 97 werkzeug - INFO - 127.0.0.1 - - [23/Nov/2026 16:13:37] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -

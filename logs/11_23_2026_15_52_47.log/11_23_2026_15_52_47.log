@@ -1,0 +1,13 @@
+[ 2026-11-23 15:52:48,451 ] 28 root - INFO - Staring to load the dataset
+[ 2026-11-23 15:52:48,493 ] 36 root - INFO - Initiated training and testing splitting
+[ 2026-11-23 15:52:48,529 ] 43 root - INFO - Train Test Split executed successfully
+[ 2026-11-23 15:52:48,537 ] 51 root - INFO - Train and Test data read successfully
+[ 2026-11-23 15:52:48,537 ] 53 root - INFO - Obtaining preprocessing object
+[ 2026-11-23 15:52:48,537 ] 34 root - INFO - Categorical columns: ['Type']
+[ 2026-11-23 15:52:48,537 ] 35 root - INFO - Numerical columns: ['Air temperature [K]', 'Process temperature [K]', 'Rotational speed [rpm]', 'Torque [Nm]', 'Tool wear [min]']
+[ 2026-11-23 15:52:48,539 ] 72 root - INFO - Applying preprocessing obj on train df and test df
+[ 2026-11-23 15:52:48,550 ] 78 root - INFO - Applied preprocessing obj on train df and test df
+[ 2026-11-23 15:52:48,550 ] 85 root - INFO - Saving preprocessing object
+[ 2026-11-23 15:52:48,551 ] 91 root - INFO - Saved preprocessing object
+[ 2026-11-23 15:52:48,551 ] 30 root - INFO - Spliting training and test data
+[ 2026-11-23 15:53:10,439 ] 82 root - INFO - Best found model on both train and test dataset

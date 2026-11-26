@@ -1,0 +1,7 @@
+[ 2026-11-23 15:44:14,345 ] 28 root - INFO - Staring to load the dataset
+[ 2026-11-23 15:44:14,387 ] 36 root - INFO - Initiated training and testing splitting
+[ 2026-11-23 15:44:14,423 ] 43 root - INFO - Train Test Split executed successfully
+[ 2026-11-23 15:44:14,431 ] 51 root - INFO - Train and Test data read successfully
+[ 2026-11-23 15:44:14,431 ] 53 root - INFO - Obtaining preprocessing object
+[ 2026-11-23 15:44:14,431 ] 34 root - INFO - Categorical columns: ['Type']
+[ 2026-11-23 15:44:14,431 ] 35 root - INFO - Numerical columns: ['Air temperature [K]', 'Process temperature [K]', 'Rotational speed [rpm]', 'Torque [Nm]', 'Tool wear [min]']
